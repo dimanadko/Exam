@@ -1,0 +1,28 @@
+{
+  "cement":[
+    {"cement 1": {"weight":50, "price":200}},
+    {"cement 2": {"weight":70, "price":300}},
+    {"cement 3": {"weight":80, "price":350}},
+    {"cement 4": {"weight":100, "price":400}}
+  ],
+  "brick":[
+    {"Old Yellow": {"amount":100, "price":200}},
+    {"New Red": {"amount":100, "price":300}},
+    {"Raritet Blue": {"amount":100, "price":500}}
+  ],
+  "wood":[
+    {"Pine": {"weight":20, "price":200}},
+    {"Buk": {"weight":30, "price":200}},
+    {"Oak": {"weight":10, "price":200}}
+  ],
+  "nails":[
+    {"long": {"amount":100, "price":20}},
+    {"decoration": {"amount":100, "price":30}},
+    {"roof": {"amount":100, "price":50}}
+  ],
+  "paint":[
+    {"red": {"amount":20, "price":200}},
+    {"blue": {"amount":30, "price":150}},
+    {"yellow": {"amount":25, "price":230}}
+  ]
+}
